@@ -7,3 +7,5 @@ Practice Exercises and Problems of Intermediate Level of Python
     Day 3: Chapter 2 Pythonic OOP -exercises(Object attribute, addition of coordinates, compute perimeter, sum of list items)
     Day 4: Chapter 2 Pythonic OOP -exercises(Object inside class, access base method, use super(), compute area and perimeter)
     Day 5: Chapter 3 Exception Handling -exercises(Exception Handling with Lists, Dictionary, and Division Exception)
+
+![image](https://github.com/user-attachments/assets/8047472e-4e9d-4b5e-a599-a98f160772fc)
