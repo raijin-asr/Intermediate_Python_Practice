@@ -7,6 +7,7 @@ try:
 
     # print the value present at key
     print(countries[key])
+    
 # create the except block
 except KeyError:
     print("Key is not available")

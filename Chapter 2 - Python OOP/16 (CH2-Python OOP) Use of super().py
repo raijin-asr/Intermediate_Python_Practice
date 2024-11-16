@@ -9,7 +9,7 @@ class Animal:
 # create the Dog class
 class Dog(Animal):
     def __init__(self):
-        super().__init__()
+        super().__init__() # call the __init__() method of the base class
 
     def bark(self):
         print("I can bark")

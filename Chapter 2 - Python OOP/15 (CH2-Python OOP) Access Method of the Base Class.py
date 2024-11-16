@@ -7,7 +7,7 @@ class Animal:
         print("I can eat food")
 
 # create the Dog class
-class Dog(Animal):
+class Dog(Animal): #inherit the Animal class
     def __init__(self):
         pass
 
